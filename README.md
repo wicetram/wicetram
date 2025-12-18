@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özer</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ozeruzunkaya12@gmail.com</h3>
 <p align="left">
 </p>
 
